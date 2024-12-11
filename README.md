@@ -5,7 +5,7 @@
 ## FRONTEND
 html; css 
 ## BACKEND
-node js
+-
 ## BD
 my sql
 ## ЛОГОТИП
